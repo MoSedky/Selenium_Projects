@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32828" started-at="2017-11-20T11:24:28Z" finished-at="2017-11-20T11:25:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32828" started-at="2017-11-20T11:24:28Z" finished-at="2017-11-20T11:25:00Z">
+      <class name="est_eval.Login_Page">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:est_eval.Login_Page@1794d431]" name="setUp" is-config="true" duration-ms="26950" started-at="2017-11-20T14:24:28Z" finished-at="2017-11-20T14:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCal()[pri:0, instance:est_eval.Login_Page@1794d431]" name="testCal" duration-ms="5823" started-at="2017-11-20T14:24:55Z" finished-at="2017-11-20T14:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:est_eval.Login_Page@1794d431]" name="teardown" is-config="true" duration-ms="0" started-at="2017-11-20T14:25:00Z" finished-at="2017-11-20T14:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- est_eval.Login_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

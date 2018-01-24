@@ -1,0 +1,167 @@
+Asprise (c) 1998-2015
+All Rights Reserved.
+
+
+LICENSE AGREEMENT FOR THE EVALUATION VERSION OF ASPRISE OCR SOFTWARE
+
+********************************************************************
+
+This License Agreement is a legal agreement between you ("Licensee") 
+(either an individual or a single entity)
+
+and
+
+LAB Asprise! ("LAB ASPRISE!") for evaluation version of the software 
+product Asprise OCR which includes computer software and electronic 
+documentation (collectively the "SOFTWARE").
+
+Read it carefully before completing the installation process and 
+using the SOFTWARE. If you did not obtain this copy of the SOFTWARE 
+legally, please destroy the copy immediately.
+
+By installing, copying, or otherwise using the SOFTWARE, you agree 
+to be bound by the terms of this License Agreement. If you do not 
+agree to the terms of this License Agreement, LAB ASPRISE! is 
+unwilling to license the SOFTWARE.  In such event, you may not 
+install, copy or otherwise use the SOFTWARE.
+
+YOU AGREE THAT YOUR USE OF THE SOFTWARE ACKNOWLEDGES THAT YOU HAVE 
+READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS 
+AND CONDITIONS.
+
+
+-------------------------
+I. GRANT
+-------------------------
+
+Subject to the provisions contained herein, LAB ASPRISE! hereby 
+grants you, Licensee a non-exclusive, non-transferable limited license 
+to install and use one (1) copy of its proprietary software 
+("Software"), described as Asprise OCR, for the sole purpose of testing and 
+evaluating whether to purchase an ongoing license to the Software. 
+Licensee may make one (1) copy of the SOFTWARE solely for backup or 
+archival purposes, provided that Licensee reproduces and includes all 
+copyright and other proprietary notice(s) on the copy.
+
+
+-------------------------
+II. DISTRIBUTION
+-------------------------
+
+This evaluation license prohibits Licensee from distributing any software 
+directly or indirectly link to Asprise OCR.
+
+In order to reproduce and distribute any binary/executable files which 
+have been generated in accordance with this license, Licensee MUST be 
+registered with LAB ASPRISE! as an authorized licensee. Licensee may 
+then distribute binary/executable files containing linked versions of 
+the components. Distribution of the software components as part of 
+other component libraries is strictly prohibited under any and all 
+circumstances. Licensee may not reproduce or distribute copies of the 
+individual software components, source code, any of the documentation, 
+nor may Licensee supply any means by which your users could create or 
+modify any SOFTWARE related files or installation. Violations will be 
+prosecuted to the maximum extent possible under law.
+
+
+-------------------------
+III. RESTRICTIONS
+-------------------------
+
+Licensee may NOT:
+
+(a) Distribute any software or deploy any software and/or service directly or 
+indirectly link to the SOFTWARE. A new license must be obtained.
+
+(b) Decompile, reverse engineer, disassemble or otherwise reduce the 
+SOFTWARE to a human perceivable form
+
+(c) unlock or bypass any "copy-protection" or authentication algorithm 
+utilized by the program
+
+(d) Rent, lease, lend, transfer or otherwise transfer rights to the 
+SOFTWARE
+
+(e) Translate, adapts, modify the SOFTWARE or create derivative works 
+based upon the SOFTWARE or any part thereof
+
+(f) Remove any proprietary notices or labels on the SOFTWARE
+
+(g) Use the SOFTWARE to encode, reproduce or copy any material or 
+intellectual property you do not have the right to encode, reproduce 
+or copy
+
+(h) Distribute any software directly or indirectly link to Asprise OCR
+
+-------------------------
+IV. EVALUATION PERIOD AND TERMINATION
+-------------------------
+
+This License Agreement will commence upon Licensee's first installation 
+of the SOFTWARE and will expire and terminate thirty (30) days 
+thereafter ("EVALUATION PERIOD"). LAB ASPRISE! may terminate this License  
+Agreement if Licensee fails to comply with the terms and conditions of 
+this License  Agreement. In such event, Licensee must destroy all copies 
+of the SOFTWARE and all of its component parts. All provisions relating 
+the ownership, disclaimer of warranties, limitation of liability and the 
+general provisions shall survive the termination of this License Agreement.
+
+
+-------------------------
+V. TITLE
+-------------------------
+
+Ownership rights, and intellectual property rights in and to the Software 
+and Documentation shall remain in LAB Asprise! and/or its suppliers. This 
+Agreement does not include the right to copy or sub-License the Software 
+and is personal to you and therefore may not be assigned (by operation of 
+law or otherwise) or transferred without the prior written consent of LAB 
+Asprise!. The foregoing License Agreement gives Licensee limited rights 
+to use the SOFTWARE during the EVALUATION PERIOD. You further agree not 
+to modify or create derivative works of the Software.
+
+
+-------------------------
+VI. DISCLAIMER OF WARRANTIES
+-------------------------
+
+THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, 
+INCLUDING WITHOUT LIMITATION THE WARRANTIES THAT IT IS FREE OF DEFECTS, 
+MERCHANTABLE, FIT FOR   A PARTICULAR PURPOSE, OR NONINFRINGING. THE ENTIRE 
+RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS BORNE BY LICENSEE.  
+SHOULD THE SOFTWARE PROVE DEFECTIVE IN ANY RESPECT, LICENSEE AND NOT 
+LICENSOR OR ITS SUPPLIERS OR RESELLERS ASSUMES THE ENTIRE COST OF ANY 
+SERVICE AND REPAIR. IN ADDITION, THE SECURITY MECHANISMS IMPLEMENTED BY 
+THE SOFTWARE HAVE INHERENT LIMITATIONS, AND LICENSEE MUST DETERMINE THAT 
+THE SOFTWARE SUFFICIENTLY MEETS ITS REQUIREMENTS.
+
+
+-------------------------
+VII. LIMITATION OF LIABILITY
+-------------------------
+
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, TORT, CONTRACT, OR 
+OTHERWISE, SHALL LAB ASPRISE! OR ITS SUPPLIERS OR RESELLERS BE LIABLE TO 
+YOU OR ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR 
+CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, 
+OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES. IN NO EVENT WILL LAB 
+ASPRISE! BE LIABLE FOR ANY DAMAGES IN EXCESS OF LAB ASPRISE!'S LIST PRICE 
+FOR A LICENSE TO THE SOFTWARE, EVEN IF LAB ASPRISE! SHALL HAVE BEEN INFORMED 
+OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY OTHER PARTY. 
+THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR 
+PERSONAL INJURY TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. 
+FURTHERMORE, SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF 
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION AND EXCLUSION MAY 
+NOT APPLY TO YOU.
+
+
+-------------------------
+VIII. ENTIRE AGREEMENT
+-------------------------
+
+This License Agreement constitutes the entire agreement between Licensee 
+and LAB ASPRISE! and supersedes any other prior agreements or understandings, 
+whether oral or written, regarding the SOFTWARE. If a provision of this 
+agreement is deemed null and void, invalid or without effect, the remainder 
+of this agreement shall remain in effect.

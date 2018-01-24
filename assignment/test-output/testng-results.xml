@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20364" started-at="2018-01-17T13:18:50Z" finished-at="2018-01-17T13:19:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20364" started-at="2018-01-17T13:18:50Z" finished-at="2018-01-17T13:19:10Z">
+      <class name="assign_pkg.Register_Sign_In">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:assign_pkg.Register_Sign_In@27efef64]" name="setUp" is-config="true" duration-ms="19059" started-at="2018-01-17T16:18:50Z" finished-at="2018-01-17T16:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCal()[pri:0, instance:assign_pkg.Register_Sign_In@27efef64]" name="testCal" duration-ms="1265" started-at="2018-01-17T16:19:09Z" finished-at="2018-01-17T16:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:assign_pkg.Register_Sign_In@27efef64]" name="teardown" is-config="true" duration-ms="0" started-at="2018-01-17T16:19:10Z" finished-at="2018-01-17T16:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- assign_pkg.Register_Sign_In -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

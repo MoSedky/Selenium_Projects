@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="5" name="PFS Project" annotations="JDK" >
+         
+  <test name="Create_BQ">
+	 <classes>
+	   <class name="pfs_System.Create_BQ"/>
+	 </classes>
+   </test>
+   
+  <test name="Login">
+     <classes>
+       <class name="pfs_System.Login_Module"/>
+     </classes>
+   </test>
+   
+  <test name="Projects_Contractor">
+     <classes>
+       <class name="pfs_System.Projects_Contractor"/>
+     </classes>
+   </test>
+   
+  <test name="Open_Contract">
+     <classes>
+       <class name="pfs_System.Open_Contract"/>
+     </classes>
+   </test>
+   
+  
+  <test name="Upload_BOQ">
+     <classes>
+       <class name="pfs_System.Upload_BOQ"/>
+     </classes>
+   </test>
+  
+</suite>
